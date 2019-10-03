@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^12.7.9",
+    "@types/validator": "^10.11.3",
+    "@types/yargs": "^13.0.3",
+    "chalk": "^2.4.1",
+    "validator": "^11.1.0",
+    "yargs": "^14.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
